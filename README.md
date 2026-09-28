@@ -108,16 +108,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
+<h2>📊 GitHub Statistics & Analysis</h2>
 
-<h2>📊 GitHub Statistics</h2>
+<h3>GitHub Contributions</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=mdabdullahallkafe24&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdullahallkafe24&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
   />
 </p>
-
 
 
 
