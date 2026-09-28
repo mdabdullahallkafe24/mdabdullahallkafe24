@@ -110,16 +110,14 @@
 
 <h2>📊 GitHub Statistics & Analysis</h2>
 
-<h3>GitHub Contributions</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mdabdullahallkafe24&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Activity"
-    width="100%"
+    src="https://streak-stats.demolab.com/?user=mdabdullahallkafe24&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
+    alt="GitHub Streak Statistics"
+    width="70%"
   />
 </p>
-
 
 
 
