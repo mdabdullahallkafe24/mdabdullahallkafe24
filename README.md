@@ -83,10 +83,11 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,express" />
 </p>
 
-<h4>Database & ORM:</h4>
+<h4>Database & SQL:</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,SQL,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://img.icons8.com/color/48/sql.png" width="48" alt="SQL"/>
 </p>
 
 <h4>Deployment Platform:</h4>
