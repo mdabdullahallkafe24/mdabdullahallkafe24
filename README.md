@@ -86,7 +86,7 @@
 <h4>Database & ORM:</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,SQL,postgres" />
 </p>
 
 <h4>Deployment Platform:</h4>
