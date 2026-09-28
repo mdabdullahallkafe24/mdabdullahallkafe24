@@ -20,7 +20,7 @@
 
 - 🎓 Computer Science & Engineering student
 - 💻 Focused on Full Stack Web Development
-- 🌱 Currently improving my skills in React, Next.js, Node.js and modern web technologies
+- 🌱 Currently improving my skills in React, Next.js, Next.js and modern web technologies
 - 🚀 Interested in building clean, responsive and scalable applications
 - 🧠 Practicing problem solving and programming
 - 🤝 Open to learning, collaboration and exciting projects
