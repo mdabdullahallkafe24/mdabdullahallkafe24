@@ -109,6 +109,15 @@
 </p>
 
 
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdabdullahallkafe24&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+</p>
+
 
 
 
