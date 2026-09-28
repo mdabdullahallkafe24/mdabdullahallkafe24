@@ -108,6 +108,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
+<h2>🚀 Featured Projects</h2>
+
 <h3>📚 Book Library</h3>
 
 <p>
@@ -127,6 +129,32 @@
   &nbsp;&nbsp;&nbsp;
   💻 <strong>GitHub:</strong>
   <a href="https://github.com/mdabdullahallkafe24/book-vibe-app" target="_blank">
+    Repository
+  </a>
+</p>
+
+<hr>
+
+<h3>🏋️ FitLog</h3>
+
+<p>
+  A responsive workout library application for discovering workouts,
+  creating a personal plan, and saving workouts for later.
+</p>
+
+<p>
+  <strong>Tech Stack:</strong>
+  Next.js · React · JavaScript · Tailwind CSS · DaisyUI · REST API
+</p>
+
+<p>
+  🔗 <strong>Live Demo:</strong>
+  <a href="https://fit-log-web-app-gilt.vercel.app/" target="_blank">
+    View Project
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  💻 <strong>GitHub:</strong>
+  <a href="YOUR_FITLOG_GITHUB_LINK" target="_blank">
     Repository
   </a>
 </p>
