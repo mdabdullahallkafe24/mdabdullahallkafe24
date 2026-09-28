@@ -30,22 +30,36 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-abdullah-all-kafe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" height="26" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <b>LinkedIn</b>
+
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:mdabdullahallkafe01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" height="26" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <b>Email</b>
+
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/mdabdullahallkafe24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" height="26" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <b>GitHub</b>
+
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.facebook.com/ka.fe.166353/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="26" height="26" alt="Facebook"/>
   </a>
+  &nbsp;&nbsp;
+  <b>Facebook</b>
 </p>
 
 <p align="center">
-  <i>Let's connect, collaborate, and build something meaningful together.</i>
+  <sub>💬 Open to collaboration, freelance opportunities & interesting projects.</sub>
 </p>
