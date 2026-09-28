@@ -28,38 +28,42 @@
 
 <h2>🤝 Connect With Me</h2>
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/md-abdullah-all-kafe/" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
+        <br/>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+
+    <td align="center" width="25%">
+      <a href="mailto:mdabdullahallkafe01@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email"/>
+        <br/>
+        <strong>Email</strong>
+      </a>
+    </td>
+
+    <td align="center" width="25%">
+      <a href="https://github.com/mdabdullahallkafe24" target="_blank">
+        <img src="https://cdn.simpleicons.org/github/ffffff" width="32" alt="GitHub"/>
+        <br/>
+        <strong>GitHub</strong>
+      </a>
+    </td>
+
+    <td align="center" width="25%">
+      <a href="https://www.facebook.com/ka.fe.166353/" target="_blank">
+        <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" alt="Facebook"/>
+        <br/>
+        <strong>Facebook</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-abdullah-all-kafe/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" height="26" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <b>LinkedIn</b>
-
-  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:mdabdullahallkafe01@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26" height="26" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <b>Email</b>
-
-  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/mdabdullahallkafe24" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="26" height="26" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <b>GitHub</b>
-
-  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/ka.fe.166353/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="26" height="26" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-  <b>Facebook</b>
-</p>
-
-<p align="center">
-  <sub>💬 Open to collaboration, freelance opportunities & interesting projects.</sub>
+  <i>Let's connect, collaborate, and build something meaningful together.</i>
 </p>
