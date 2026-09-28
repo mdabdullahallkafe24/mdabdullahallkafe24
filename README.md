@@ -68,7 +68,7 @@
 <h4>Languages:</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,py,js,ts,cpp" />
 </p>
 
 <h4>CSS Frameworks & Libraries:</h4>
@@ -80,13 +80,13 @@
 <h4>JavaScript Frameworks & Libraries:</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express" />
 </p>
 
 <h4>Database & ORM:</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sql,postgres" />
 </p>
 
 <h4>Deployment Platform:</h4>
@@ -98,7 +98,7 @@
 <h4>Design & Graphics:</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,Ai" />
 </p>
 
 <h4>Tools & Technologies:</h4>
