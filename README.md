@@ -108,9 +108,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
-<h2>🚀 Featured Projects</h2>
-<h2>🚀 Featured Projects</h2>
-
 <h3>📚 Book Library</h3>
 
 <p>
@@ -124,37 +121,17 @@
 
 <p>
   🔗 <strong>Live Demo:</strong>
-  <a href="YOUR_BOOK_LIVE_LINK" target="_blank">View Project</a>
-  &nbsp;&nbsp;
+  <a href="https://book-vibe-app-eight.vercel.app/" target="_blank">
+    View Project
+  </a>
+  &nbsp;&nbsp;&nbsp;
   💻 <strong>GitHub:</strong>
-  <a href="YOUR_BOOK_GITHUB_LINK" target="_blank">Repository</a>
-</p>
-
-<hr>
-
-<h3>🏋️ FitLog</h3>
-
-<p>
-  A responsive workout library application with workout planning,
-  saved workouts, and local storage functionality.
-</p>
-
-<p>
-  <strong>Tech Stack:</strong>
-  Next.js · React · JavaScript · Tailwind CSS · REST API
-</p>
-
-<p>
-  🔗 <strong>Live Demo:</strong>
-  <a href="https://fit-log-web-app-gilt.vercel.app/" target="_blank">View Project</a>
-  &nbsp;&nbsp;
-  💻 <strong>GitHub:</strong>
-  <a href="YOUR_FITLOG_GITHUB_LINK" target="_blank">Repository</a>
+  <a href="https://github.com/mdabdullahallkafe24/book-vibe-app" target="_blank">
+    Repository
+  </a>
 </p>
 
 <h2>📊 GitHub Statistics & Analysis</h2>
-
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=mdabdullahallkafe24&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
